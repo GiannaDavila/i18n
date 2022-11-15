@@ -1,5 +1,7 @@
 {
     "app.header": "欢迎来到博卡密码",
     "app.subhead": "在 10 周内成为一名经过认证的软件工程师",
-    "app.cta": "现在申请"
+    "app.cta": "现在申请",
+    "details.header": "节目大纲 ",
+    "details.text": "本课程将教授您在技术领域取得成功所需的所有硬技能和软技能"
 }
